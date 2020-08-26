@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**afonsoplantes/afonsoplantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h2 align="center">  Welcome to my GitHub profile! </h2>
+  <h2 align="center">  I am Afonso Plantes </h2> 
+</p>
 
-Here are some ideas to get you started:
+## About me
+- 📚 Master Student
+- ⚡ Electrical Engineer
+- 🖥 Analog-mixed signal IC designer
+- 😄 Learning stuff about programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afonsoplantes)](https://github.com/afonsoplantes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsoplantes/)](https://www.linkedin.com/in/afonsoplantes/)
