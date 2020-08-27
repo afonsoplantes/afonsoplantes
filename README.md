@@ -6,7 +6,7 @@
 </p>
 
 ## About me
-- 📚 Master Student
+- 📚 Master in Computer Science
 - ⚡ Electrical Engineer
 - 🖥 Analog-mixed signal IC designer
 - 😄 Learning stuff about programming.
