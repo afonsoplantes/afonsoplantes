@@ -8,8 +8,7 @@
 ## About me
 - 📚 Master in Computer Science
 - ⚡ Electrical Engineer
-- 🖥 Analog-mixed signal IC designer
-- 😄 Learning stuff about programming.
+- 😄 Learning some stuff to solve problems.
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afonsoplantes)](https://github.com/afonsoplantes)
