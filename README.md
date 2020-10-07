@@ -6,9 +6,12 @@
 </p>
 
 ## About me
-- 📚 Master in Computer Science
+
 - ⚡ Electrical Engineer
-- 😄 Learning some stuff to solve problems.
+- 📚 Master in Computer Science
+- 🐍 Python Developer
+- 💾 Analog-mixed signal IC designer
+- 😄 Learning HTML, CSS, JS for fun
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afonsoplantes)](https://github.com/afonsoplantes)
