@@ -10,8 +10,8 @@
 - ⚡ Electrical Engineer
 - 📚 Master in Computer Science
 - 🐍 Python Learner
-- 💾 Analog IC designer
-- 😄 Learning HTML, CSS, JS
+- Analog IC designer
+- Learning HTML, CSS, JS
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afonsoplantes)](https://github.com/afonsoplantes)
